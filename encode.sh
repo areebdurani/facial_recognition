@@ -1,0 +1,1 @@
+python3 encode_faces.py --dataset live_regs --encodings all_encodings.pickle --detection-method hog
